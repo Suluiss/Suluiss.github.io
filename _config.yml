@@ -9,15 +9,15 @@
 title: Michael Wilson 
 
 # Your name to show in the footer
-author: Michael David Wilson
+author: Michael Wilson
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: ""
-    - Learn markdown: ""
+    - Handshake.org: "https://handshake.org/"
+    - Namebase: "https://www.namebase.io/"
   Author's home: ""
 
 # --- Logo --- #
