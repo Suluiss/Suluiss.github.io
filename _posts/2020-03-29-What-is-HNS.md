@@ -6,5 +6,6 @@ tags: [Question, test]
 ---
 #The Future if you where the pilot
 
-If you could with a few simple strokes of a brush change the world as we know it into something devine and great would you?
+<p style="text-align: center;"> If you could with a few simple strokes of a brush change the world as we know it into something devine and great would you?
 What would you do with such power 
+</p>
