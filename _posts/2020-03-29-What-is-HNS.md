@@ -35,18 +35,13 @@ li {text-align: left;}
 <body>
 
 <h2>How to market Handshake, A community effort.</h2>
-      <ul>
-  <li>What strategy do we deploy? </li>
-  <li>Why choose said strategy</li>
-  <li>Projected outcome</li>
-</ul>  
 
 <div class="row">
   <div class="column">
     
     
-    <p> Benefits of having a community marketing strategy, Reduce your dependency on paid advertising, Increase customer retention through ongoing engagement
-    Give your customers a voice in the direction of your business, Online community management is the future of marketing. Being able to track the demographics of an entire community as well as appealing to their needs based off trends is key in today’s fast paced society. The potential for new revenue streams lie within online community management. It’s clear that this is a trend that will continue for years to come. </p>
+    <p> Marketing Handshake is not a one person job, nor is it the responcbilty of startup's on the Handshake network.
+    It's responceabilty lay's with the users and coin holders</p>
   </div>
   <div class="column">
    
