@@ -40,8 +40,8 @@ li {text-align: left;}
   <div class="column">
     
     
-    <p> Marketing Handshake is not a one person job, nor is it the responcbilty of startup's on the Handshake network.
-    It's responceabilty lay's with the users and coin holders</p>
+    <p> Marketing Handshake is not a one-person job, nor is it the responsibility of startups on the Handshake network.
+    It's responsibility lay's with the users and coin holders</p>
   </div>
   <div class="column">
    
