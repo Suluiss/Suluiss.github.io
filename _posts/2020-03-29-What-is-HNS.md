@@ -11,6 +11,7 @@ tags: [HNS, Marketing]
   h2 {text-align: center;}
 p {text-align: center;}
 div {text-align: center;}
+li {text-align: left;}
 * {
   box-sizing: border-box;
 }
