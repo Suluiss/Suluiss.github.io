@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: minimal
 title: The Future if you where the pilot 
 subtitle: How would you paint the future?
 tags: [Question, test]
