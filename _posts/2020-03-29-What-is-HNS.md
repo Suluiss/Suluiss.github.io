@@ -1,12 +1,10 @@
 ---
 layout: post
-title: What is Handshake
-subtitle: Why should i use it
-cover-img: /assets/img/hns.png
-thumbnail-img: /assets/img/hns.png
-share-img: /assets/img/hns.png
-tags: [Crypto, test]
+title: The Future if you where the pilot 
+subtitle: How would you paint the future?
+tags: [Question, test]
 ---
-#Handshake
+#The Future if you where the pilot
 
-Test
+If you could with a few simple strokes of a brush change the world as we know it into something devine and great would you?
+What would you do with such power 
