@@ -2,9 +2,9 @@
 layout: minimal
 title: How to market Handshake
 subtitle: reasonable, respectful outreach
-cover-img: /assets/img/market.jpg
-thumbnail-img: /assets/img/market.png
-share-img: /assets/img/market.jpg
+cover-img: /assets/img/Market.jpg
+thumbnail-img: /assets/img/Market.jpg
+share-img: /assets/img/Market.jpg
 tags: [HNS, Marketing]
 ---
 <html>
