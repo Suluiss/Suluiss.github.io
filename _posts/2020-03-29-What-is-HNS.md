@@ -4,10 +4,48 @@ title: The Future if you were the pilot
 subtitle: How would you paint the future?
 tags: [Question, test]
 ---
-<title> The Future if you were the pilot </title>
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
 
-<header> The Future if you were the pilot </header>
+/* Create two equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+  height: 300px; /* Should be removed. Only for demonstration */
+}
 
-<p style="text-align: center;"> If you could with a few simple strokes of a brush change the world as we know it into something devine and great would you?
-What would you do with such power 
-</p>
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
+</head>
+<body>
+
+<h2>What is Life?</h2>
+
+<div class="row">
+  <div class="column">
+    
+    <p>ddddddddddddddddddddddddddddddddddddddd
+    dddddddddddddddddddddd
+    dddddddddddddddddddddddddddddddddddddddd.</p>
+  </div>
+  <div class="column">
+   
+    <p>Srrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+    rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr.</p>
+  </div>
+</div>
+
+</body>
+</html>
