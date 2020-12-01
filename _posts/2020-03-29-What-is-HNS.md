@@ -45,7 +45,8 @@ li {text-align: left;}
   <div class="column">
     
     
-    <p>  </p>
+    <p> Benefits of having a community marketing strategy, Reduce your dependency on paid advertising, Increase customer retention through ongoing engagement
+    Give your customers a voice in the direction of your business, </p>
   </div>
   <div class="column">
    
