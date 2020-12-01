@@ -46,7 +46,7 @@ li {text-align: left;}
     
     
     <p> Benefits of having a community marketing strategy, Reduce your dependency on paid advertising, Increase customer retention through ongoing engagement
-    Give your customers a voice in the direction of your business, </p>
+    Give your customers a voice in the direction of your business, Online community management is the future of marketing. Being able to track the demographics of an entire community as well as appealing to their needs based off trends is key in today’s fast paced society. The potential for new revenue streams lie within online community management. It’s clear that this is a trend that will continue for years to come. </p>
   </div>
   <div class="column">
    
