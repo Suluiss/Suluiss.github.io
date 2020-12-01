@@ -4,7 +4,6 @@ title: The Future if you were the pilot
 subtitle: How would you paint the future?
 tags: [Question, test]
 ---
-<!DOCTYPE html>
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
