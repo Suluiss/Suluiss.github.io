@@ -37,7 +37,7 @@ li {text-align: left;}
 </head>
 <body>
 
-<h2>How to market Handshake, A community effort.</h2>
+    <h2>How to market Handshake, A community effort.</h2>
 
 <div class="row">
   <div class="column">
@@ -47,7 +47,7 @@ li {text-align: left;}
     
     <p>Iterating on the example stated earlier a straightforward and effective method of community marketing that is already in effect would be utilizing social sites like Twitter. There is at present a small group of individuals within the HNS community that put out tweets relating to HNS with the $HNS tag, This tag is essentially a brand, It must be treated as one. Whenever someone unfamiliar to HNS sees a tweet with that tag we want them to click on it and find tweets and articles or useful information promoting them to get involved with HNS, what we don’t want is random unorganized, uninformative tweets filling the space and bocking potential user from graining an understanding in that brief moment we have their attention </p>
     
-  <p> What can we do about this? Once more all you need to do is a simple task, Like and retweet the useful informative tweets within the $HNS tag thus promoting these tweets. Every day if you possess the free time just scroll through the $HNS tag and help promote those which shine a positive light on HNS. This by no means is an effort to dictate what people see and read about HNS as the advocation for censorship goes agents the HNS model and what it represents but simply a way to support the growth of the user base by promoting informative and useful information. 
+    <p>     What can we do about this? Once more all you need to do is a simple task, Like and retweet the useful informative tweets within the $HNS tag thus promoting     these tweets. Every day if you possess the free time just scroll through the $HNS tag and help promote those which shine a positive light on HNS. This by no means      is an effort to dictate what people see and read about HNS as the advocation for censorship goes agents the HNS model and what it represents but simply a way to      support the growth of the user base by promoting informative and useful information. 
 
 </p>
   </div>
