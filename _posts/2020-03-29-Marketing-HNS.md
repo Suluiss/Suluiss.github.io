@@ -53,7 +53,8 @@ li {text-align: left;}
   </div>
   <div class="column">
    
-    <p> </p>
+    <p> The outcome of a combined community effort that we hope to see would be to excite developers about the potential of HNS, and the limitless possibilities of       use cases HNS has to offer, as well as getting new users to join the ecosystem and claim there user handle/identity and possibly do as I have done today and build      a small personal website.
+     While on this topic I would love to shout out a member of the HNS community and a product they are currently working on, An effortless way to setup and host a       fully decentralized domain http://app.sinpapeles/ For any new users who are struggling to setup a site with HNS this will dramatically aid those who need it </p>
   </div>
 </div>
 
